@@ -6,3 +6,4 @@
 4. Añadido fichero "log4j2.xml" en la carpeta "etc".
 5. Informar al proyecto que tiene que usar librerías extras disponibles en lib.
 6. Informar al compilador que tiene que utilizar el fichero de configuración disponible en etc: Run As> run configurations> pestaña Classpath> Seleccionar User Entries > Advanced > Add folder > Carpeta "etc".
+7. Enlace -> https://github.com/alexitm/Log4j_Proyect
